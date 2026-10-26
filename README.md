@@ -23,7 +23,7 @@ Acá no está el código de la tienda, solo lo que producís vos como tester.
 
 1. Hacé **Fork** de este repo.
 2. En tu fork, abrí `clase-01/practica.md` y tocá el lápiz (**Edit**). Completalo ahí o pegá lo que armaste.
-3. Para las capturas: **Add file → Upload files** dentro de `clase-01/evidencias/`.
+3. Para las capturas: **Add file → Upload files** dentro de `clase-01/evidencias/`. Son capturas de tus casos cargados en Qase (la suite y cada caso), no de la tienda.
 4. Al guardar, elegí **Create a new branch** y abrí el **Pull request** dentro de tu fork, o hacé commit directo en tu `main`.
 
 ## Checklist de entrega

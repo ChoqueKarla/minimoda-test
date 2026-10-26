@@ -6,7 +6,6 @@
 
 ## 1. Preparación
 - Navegador y fecha: ___tu respuesta aquí___
-- Evidencia: `evidencias/00-registro-formulario.png`
 
 ## 2. Superficie elegida
 - Elegí (chat o cowork): ___tu respuesta aquí___
@@ -42,24 +41,25 @@
 
 ## 6. Mis 3 mejores casos (cargados en Qase, proyecto MiniModa)
 Formato del título: `Registro: <qué se prueba>`
+Captura de la suite en Qase con tus casos: `evidencias/qase-suite-casos.png`
 
 ### Caso 1: ___tu respuesta aquí___
 - Precondiciones: ___tu respuesta aquí___
 - Pasos: ___tu respuesta aquí___
 - Resultado esperado: ___tu respuesta aquí___
-- Evidencia: `evidencias/04-caso-registro-exitoso.png`
+- Evidencia: `evidencias/qase-MM-4-registro-alta-exitosa.png`
 
 ### Caso 2: ___tu respuesta aquí___
 - Precondiciones: ___tu respuesta aquí___
 - Pasos: ___tu respuesta aquí___
 - Resultado esperado: ___tu respuesta aquí___
-- Evidencia: `evidencias/05-caso-registro-password-7-caracteres.png`
+- Evidencia: `evidencias/qase-MM-5-registro-password-7.png`
 
 ### Caso 3: ___tu respuesta aquí___
 - Precondiciones: ___tu respuesta aquí___
 - Pasos: ___tu respuesta aquí___
 - Resultado esperado: ___tu respuesta aquí___
-- Evidencia: `evidencias/06-caso-registro-edad-12.png`
+- Evidencia: `evidencias/qase-MM-6-registro-edad-12.png`
 
 ## 7. Mapa del harness
 | Pieza | En lo que usé |

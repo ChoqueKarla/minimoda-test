@@ -47,30 +47,29 @@ Captura de la suite en Qase con tus casos: `evidencias/qase-suite-casos.png`
 - Precondiciones: El formulario de registro de MiniModa está disponible. Se dispone de un correo de prueba que no está registrado.
 - Pasos: Abrir la página de registro; introducir un nombre, un correo de prueba, una contraseña válida y su confirmación; ingresar una edad de 25 años; seleccionar Bolivia; aceptar los términos si son obligatorios y pulsar «Crear cuenta».
 - Resultado esperado: El sistema acepta los datos válidos, completa el registro y muestra una confirmación o la siguiente pantalla prevista.
-- Evidencia: `evidencias/qase-MM-4-registro-alta-exitosa.png`
+- Evidencia: `evidencias/qase-MM-1-registro-alta-exitosa.png`
 
 ### Caso 2: Rechazo de contraseña de 7 caracteres
 - Precondiciones: El formulario de registro está disponible y se cuenta con un correo de prueba que no está registrado.
 - Pasos: Abrir la página de registro; completar los demás campos con datos válidos; introducir `Abc123!` como contraseña y confirmación; aceptar los términos si son obligatorios y pulsar «Crear cuenta».
 - Resultado esperado: El sistema rechaza la contraseña de 7 caracteres porque no cumple el mínimo de 8 y no permite completar el registro.
-- Evidencia: `evidencias/qase-MM-5-registro-password-7.png`
+- Evidencia: `evidencias/qase-MM-2-registro-password-7.png`
 
 ### Caso 3: Rechazo de edad de 12 años
 - Precondiciones: El formulario de registro está disponible y se cuenta con un correo de prueba que no está registrado.
 - Pasos: Abrir la página de registro; completar el nombre, correo y contraseña con datos válidos; introducir una edad de 12 años; seleccionar Bolivia; aceptar los términos si son obligatorios y pulsar «Crear cuenta».
 - Resultado esperado: El sistema rechaza el registro porque la edad es inferior al mínimo permitido de 13 años.
-- Evidencia: `evidencias/qase-MM-6-registro-edad-12.png`
+- Evidencia: `evidencias/qase-MM-3-registro-edad-12.png`
 
 ## 7. Mapa del harness
 | Pieza | En lo que usé |
 |-------|---------------|
-| Modelo | ___tu respuesta aquí___ |
-| App | ___tu respuesta aquí___ |
-| Harness | ___tu respuesta aquí___ |
-| MCP | ___tu respuesta aquí___ |
-| Skill | ___tu respuesta aquí___ |
+| Modelo | ChatGPT (GPT-6), como asistente para orientarme durante la práctica. |
+| App | MiniModa, aplicación web donde probé el formulario de registro. |
+| Harness | Qase, para organizar los casos de prueba y registrar los resultados de la ejecución manual. |
+| MCP | No utilicé un servidor MCP directamente durante esta práctica. |
+| Skill | Pruebas manuales de software: diseño de casos de prueba, validación de resultados y documentación de evidencias. |
 
 ## 8. Entrega
-- Link de tu repo (pegalo también en el Telegram): ___tu respuesta aquí___\
-## 8. Entrega
-- Link de tu repo (pegalo también en el Telegram): ___tu respuesta aquí___
+- Link de tu repo (pégalo también en el Telegram): 
+

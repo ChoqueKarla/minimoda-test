@@ -71,5 +71,5 @@ Captura de la suite en Qase con tus casos: `evidencias/qase-suite-casos.png`
 | Skill | Pruebas manuales de software: diseño de casos de prueba, validación de resultados y documentación de evidencias. |
 
 ## 8. Entrega
-- Link de tu repo (pégalo también en el Telegram): 
+- Link de tu repo (pégalo también en el Telegram): https://github.com/ChoqueKarla/minimoda-test
 
